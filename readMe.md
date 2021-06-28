@@ -1,5 +1,6 @@
 ![Palloma Ruysa: Developer](https://raw.githubusercontent.com/pallomaruysa/pallomaruysa/main/midia/Palloma%20Ruysa%20Developer.png)
 
+
 # Oii, bem-vinda(o) ao meu GitHub! 🌹🥰
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palloma-ruysa23/)](https://www.linkedin.com/in/palloma-ruysa23/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pallomaruysa@gmail.com)](mailto:pallomaruysa@gmail.com/)</br>
@@ -31,4 +32,5 @@ programação e me apaixonei.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallomaruysa&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
 
