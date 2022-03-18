@@ -1,4 +1,4 @@
-![Palloma Ruysa: Developer](https://raw.githubusercontent.com/pallomaruysa/pallomaruysa/main/midia/Palloma%20Ruysa%20Developer.png)
+
 
 
 # Oii, bem-vinda(o) ao meu GitHub! 🌹🥰
